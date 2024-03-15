@@ -1,0 +1,4 @@
+rootProject.name = 'cafekiosk-multi'
+include 'module-api'
+include 'module-core'
+
